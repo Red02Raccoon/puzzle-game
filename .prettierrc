@@ -1,0 +1,16 @@
+{
+    "singleQuote": true,
+    "printWidth": 120,
+    "semi": true,
+    "useTabs": false,
+    "tabWidth": 2,
+    "trailingComma": "all",
+    "overrides": [{
+        "files": "styles.js",
+        "options": {
+            "trailingComma": "none"
+        }
+    }],
+    "arrowParens": "avoid",
+    "bracketSpacing": true
+}
